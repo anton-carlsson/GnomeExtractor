@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageDictonaryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LanguageTitle>Русский</LanguageTitle>
+  <About>_О программе...</About>
+  <Attributes>Атрибуты</Attributes>
+  <AutoUpdating>Автоматическая проверка обновлений</AutoUpdating>
+  <Changes>Изменения</Changes>
+  <CheatMode>Чит режим</CheatMode>
+  <Cheats>_Читы</Cheats>
+  <Coal>Уголь:</Coal>
+  <Squads>Отряды</Squads>
+  <Copper>Медь:</Copper>
+  <Emerald>Изумруды:</Emerald>
+  <Exit>_Выход</Exit>
+  <Export>_Экспорт в CSV формат</Export>
+  <FastRedactor>_Быстрое редактирование...</FastRedactor>
+  <File>_Файл</File>
+  <Gold>Золото:</Gold>
+  <Help>_Справка</Help>
+  <Iron>Железо:</Iron>
+  <Lead>Свинец:</Lead>
+  <Malachite>Малахит:</Malachite>
+  <Minerals>Минералы</Minerals>
+  <Open>_Открыть...</Open>
+  <OpenToolTip>Открыть</OpenToolTip>
+  <Other>Прочее</Other>
+  <Platinum>Платина:</Platinum>
+  <Professions>Профессии</Professions>
+  <ReadGnome>Считать гнома</ReadGnome>
+  <Saphire>Сапфиры:</Saphire>
+  <Save>_Сохранить...</Save>
+  <SaveToolTip>Сохранить</SaveToolTip>
+  <Settings>_Настройки</Settings>
+  <Silver>Серебро:</Silver>
+  <Skills>Навыки</Skills>
+  <Statistics>Статистика</Statistics>
+  <Tin>Олово:</Tin>
+  <Updating>Проверить обновления...</Updating>
+  <Welcome>Добро пожаловать в программу Gnome программу. Для продолжения Для в программе файл программе.</Welcome>
+  <World>Мир</World>
+  <WorldName>Имя:</WorldName>
+  <Discussion>Обсуждение программы:</Discussion>
+  <DiscussionLink>http://vk.com/topic-40365130_26961995</DiscussionLink>
+  <License>Эта программа является свободным программным обеспечением. Вы вправе распространять её и/или модифицировать, соблюдая условия Открытого лицензионного соглашения GNU (GPL), опубликованного Free Software  Foundation; либо версии 2 Соглашения, либо (по вашему выбору) любой  более поздней версии.</License>
+  <Project>Сайт программы:</Project>
+  <ProjectLink>http://gnomex.tk/ru</ProjectLink>
+  <AboutTitle>О программе Gnome Extractor</AboutTitle>
+  <Cancel>Отмена</Cancel>
+  <Combat>Боевые</Combat>
+  <FixedEditMode>Одинаковые</FixedEditMode>
+  <FastEditorTitle>Выберите значение</FastEditorTitle>
+  <Labor>Рабочие</Labor>
+  <RandomEditMode>Случайные</RandomEditMode>
+  <Add>Добавить</Add>
+  <Remove>Удалить</Remove>
+  <ExportToolTip>Экспорт в CSV формат</ExportToolTip>
+  <AnimalHusbandry>Животноводство</AnimalHusbandry>
+  <Armor>Доспехи</Armor>
+  <ArmorCrafting>Изготовление доспехов</ArmorCrafting>
+  <Axe>Топор</Axe>
+  <Blacksmithing>Кузнечное дело</Blacksmithing>
+  <Brawling>Драка</Brawling>
+  <Brewing>Пивоварение</Brewing>
+  <Butchery>Навык мясника</Butchery>
+  <Caretaking>Уход за больными</Caretaking>
+  <Carpentry>Плотничество</Carpentry>
+  <chosenFile>Выбран файл:</chosenFile>
+  <Construction>Строительство</Construction>
+  <Cooking>Кулинария</Cooking>
+  <Crossbow>Арбалет</Crossbow>
+  <Dodge>Уклонение</Dodge>
+  <Engineering>Инженерное дело</Engineering>
+  <errorFastEditValue>Принимаются только целые числа от 1 до 50000</errorFastEditValue>
+  <errorGridEditName>Длина имени гнома не должна превышать 24 символов</errorGridEditName>
+  <Farming>Сельское хозяйство</Farming>
+  <Fighting>Бой</Fighting>
+  <GemCutting>Обработка драгоценностей</GemCutting>
+  <Gun>Огнестрельное</Gun>
+  <Hammer>Молот</Hammer>
+  <Hauling>Переноска</Hauling>
+  <Horticulture>Садоводство</Horticulture>
+  <JewelryMaking>Ювелирное дело</JewelryMaking>
+  <Leatherworking>Кожевничество</Leatherworking>
+  <Machining>Обработка</Machining>
+  <make65535>Это действие нельзя будет отменить. Используйте на свой страх и риск!</make65535>
+  <Masonry>Камнеобработка</Masonry>
+  <Mechanic>Механик</Mechanic>
+  <Medic>Медик</Medic>
+  <Metalworking>Металлообработка</Metalworking>
+  <Mining>Шахтерство</Mining>
+  <Pottery>Гончарное дело</Pottery>
+  <saveDoneMessage>Все изменения сохранены в исходный файл:</saveDoneMessage>
+  <Shield>Щит</Shield>
+  <Smelting>Выплавка</Smelting>
+  <Stonecarving>Резьба по камню</Stonecarving>
+  <Sword>Меч</Sword>
+  <Tailoring>Портняжное дело</Tailoring>
+  <Tinkering>Лужение</Tinkering>
+  <tryWrongPath>Попытка открыть файл из неверного пути.</tryWrongPath>
+  <warn>Внимание</warn>
+  <WeaponCrafting>Изготовление оружия</WeaponCrafting>
+  <Weaving>Ткачество</Weaving>
+  <Woodcarving>Резьба по дереву</Woodcarving>
+  <Woodcutting>Рубка деревьев</Woodcutting>
+  <worldName>Название мира:</worldName>
+  <Name>Имя</Name>
+  <Charm>Обаяние</Charm>
+  <Curiosity>Любопытность</Curiosity>
+  <Fitness>Телосложение</Fitness>
+  <Focus>Концентрация</Focus>
+  <Nimbleness>Проворность</Nimbleness>
+  <downloadNewVersion>перейти на официальный сайт для скачивания?</downloadNewVersion>
+  <latestVersion>Обновления не найдены, вы используете последнюю версию</latestVersion>
+  <newestVersion>Обнаружена более новая версия:</newestVersion>
+  <updateDialogCaption>Обновление</updateDialogCaption>
+  <gameNotFound>Файл Gnomoria.exe не найден, пожалуйста, установите программу в папку с игрой</gameNotFound>
+  <localizationNotFound>Файл локализации не найден для данного языка</localizationNotFound>
+  <loclibNotFound>Файл loclib.dll не найден, пожалуйста, переустановите программу</loclibNotFound>
+  <backupDoneMessage>backup сделан в файл:</backupDoneMessage>
+  <exportDoneMessage>Экспорт таблиц в формат CSV завершен успешно. Файлы сохранены в папке Export</exportDoneMessage>
+  <connectionError>Ошибка соединения</connectionError>
+  <Profession>Профессия</Profession>
+  <professionAlreadyExists>Профессия с таким именем уже существует</professionAlreadyExists>
+  <LanguageMenu>Язык</LanguageMenu>
+</LanguageDictonaryEntry>

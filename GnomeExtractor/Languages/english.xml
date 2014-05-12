@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageDictonaryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LanguageTitle>English</LanguageTitle>
+  <About>_About...</About>
+  <Attributes>Attributes</Attributes>
+  <AutoUpdating>Auto checking updates</AutoUpdating>
+  <Changes>Changes</Changes>
+  <CheatMode>Cheat _mode</CheatMode>
+  <Cheats>_Cheats</Cheats>
+  <Coal>Coal:</Coal>
+  <Squads>Squads</Squads>
+  <Copper>Copper:</Copper>
+  <Emerald>Emerald:</Emerald>
+  <Exit>_Exit</Exit>
+  <Export>E_xport to a CSV format</Export>
+  <FastRedactor>_Fast editor...</FastRedactor>
+  <File>_File</File>
+  <Gold>Gold:</Gold>
+  <Help>_Help</Help>
+  <Iron>Iron:</Iron>
+  <Lead>Lead:</Lead>
+  <Malachite>Malachite:</Malachite>
+  <Minerals>Minerals</Minerals>
+  <Open>_Open...</Open>
+  <OpenToolTip>Open</OpenToolTip>
+  <Other>Other</Other>
+  <Platinum>Platinum:</Platinum>
+  <Professions>Professions</Professions>
+  <ReadGnome>Read gnome</ReadGnome>
+  <Saphire>Saphire:</Saphire>
+  <Save>_Save changes...</Save>
+  <SaveToolTip>Save changes</SaveToolTip>
+  <Settings>_Settings</Settings>
+  <Silver>Silver:</Silver>
+  <Skills>Skills</Skills>
+  <Statistics>Statistics</Statistics>
+  <Tin>Tin:</Tin>
+  <Updating>Check for updates...</Updating>
+  <Welcome>Welcome to the Gnome Extractor. Open Gnomoria save for continue.</Welcome>
+  <World>World</World>
+  <WorldName>Name:</WorldName>
+  <Discussion>Discussion page:</Discussion>
+  <DiscussionLink>http://forums.gnomoria.com/index.php?topic=1733</DiscussionLink>
+  <License>This program is free software; You can redistribute it and/or modify, it underthe termsof the GNU General Public License aspublished by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</License>
+  <Project>Website:</Project>
+  <ProjectLink>http://gnomex.tk</ProjectLink>
+  <AboutTitle>About Gnome Extractor</AboutTitle>
+  <Cancel>Cancel</Cancel>
+  <Combat>Combat</Combat>
+  <FixedEditMode>Same</FixedEditMode>
+  <FastEditorTitle>Select a value</FastEditorTitle>
+  <Labor>Labor</Labor>
+  <RandomEditMode>Random</RandomEditMode>
+  <Add>Add</Add>
+  <Remove>Remove</Remove>
+  <ExportToolTip>Export to CSV format</ExportToolTip>
+  <AnimalHusbandry>AnimalHusbandry</AnimalHusbandry>
+  <Armor>Armor</Armor>
+  <ArmorCrafting>ArmorCrafting</ArmorCrafting>
+  <Axe>Axe</Axe>
+  <Blacksmithing>Blacksmithing</Blacksmithing>
+  <Bonecarving>Bonecarving</Bonecarving>
+  <Brawling>Brawling</Brawling>
+  <Brewing>Brewing</Brewing>
+  <Butchery>Butchery</Butchery>
+  <Caretaking>Caretaking</Caretaking>
+  <Carpentry>Carpentry</Carpentry>
+  <chosenFile>File selected:</chosenFile>
+  <Construction>Construction</Construction>
+  <Cooking>Cooking</Cooking>
+  <Crossbow>Crossbow</Crossbow>
+  <Dodge>Dodge</Dodge>
+  <Engineering>Engineering</Engineering>
+  <errorFastEditValue>Only integers from  1 to 50000 are accepted</errorFastEditValue>
+  <errorGridEditName>The Gnome's name may not exceed 24 characters</errorGridEditName>
+  <Farming>Farming</Farming>
+  <Fighting>Fighting</Fighting>
+  <GemCutting>Gem Cutting</GemCutting>
+  <Gun>Gun</Gun>
+  <Hammer>Hammer</Hammer>
+  <Hauling>Hauling</Hauling>
+  <Horticulture>Horticulture</Horticulture>
+  <JewelryMaking>Jewelry Making</JewelryMaking>
+  <Leatherworking>Leatherworking</Leatherworking>
+  <Machining>Machining</Machining>
+  <make65535>This action cannot be undone. Use on your own risk!</make65535>
+  <Masonry>Masonry</Masonry>
+  <Mechanic>Mechanic</Mechanic>
+  <Medic>Medic</Medic>
+  <Metalworking>Metalworking</Metalworking>
+  <Mining>Mining</Mining>
+  <Pottery>Pottery</Pottery>
+  <Prospecting>Prospecting</Prospecting>
+  <saveDoneMessage>All changes are saved to the source file:</saveDoneMessage>
+  <Shield>Shield</Shield>
+  <Smelting>Smelting</Smelting>
+  <Stonecarving>Stonecarving</Stonecarving>
+  <Sword>Sword</Sword>
+  <Tailoring>Tailoring</Tailoring>
+  <Tinkering>Tinkering</Tinkering>
+  <tryWrongPath>You are trying to open a file from a wrong directory.</tryWrongPath>
+  <warn>Warning</warn>
+  <WeaponCrafting>Weapon Crafting</WeaponCrafting>
+  <Weaving>Weaving</Weaving>
+  <Woodcarving>Woodcarving</Woodcarving>
+  <Woodcutting>Woodcutting</Woodcutting>
+  <worldName>World name:</worldName>
+  <Name>Name</Name>
+  <Charm>Charm</Charm>
+  <Curiosity>Curiosity</Curiosity>
+  <Fitness>Fitness</Fitness>
+  <Focus>Focus</Focus>
+  <Nimbleness>Nimbleness</Nimbleness>
+  <downloadNewVersion>go to the official website to download?</downloadNewVersion>
+  <latestVersion>No updates avaiable at this time, you have lastest version</latestVersion>
+  <newestVersion>Found a more recent version:</newestVersion>
+  <updateDialogCaption>Update</updateDialogCaption>
+  <gameNotFound>File Gnomoria.exe not found, please install the program in game folder</gameNotFound>
+  <localizationNotFound>Localization file not found for that language</localizationNotFound>
+  <loclibNotFound>File loclib.dll not found, please reinstall the program</loclibNotFound>
+  <backupDoneMessage>backup saved to:</backupDoneMessage>
+  <exportDoneMessage>Export tables to CSV completed successfully. Please, check Export folder</exportDoneMessage>
+  <connectionError>Connection error</connectionError>
+  <Profession>Profession</Profession>
+  <professionAlreadyExists>Profession with same title already exists</professionAlreadyExists>
+  <LanguageMenu>Language</LanguageMenu>
+</LanguageDictonaryEntry>

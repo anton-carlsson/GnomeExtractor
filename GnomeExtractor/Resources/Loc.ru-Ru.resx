@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnimalHusbandry" xml:space="preserve">
+    <value>Животноводство</value>
+  </data>
+  <data name="Armor" xml:space="preserve">
+    <value>Доспехи</value>
+  </data>
+  <data name="ArmorCrafting" xml:space="preserve">
+    <value>Изготовление доспехов</value>
+  </data>
+  <data name="Axe" xml:space="preserve">
+    <value>Топор</value>
+  </data>
+  <data name="Blacksmithing" xml:space="preserve">
+    <value>Кузнечное дело</value>
+  </data>
+  <data name="Brawling" xml:space="preserve">
+    <value>Драка</value>
+  </data>
+  <data name="Brewing" xml:space="preserve">
+    <value>Пивоварение</value>
+  </data>
+  <data name="Butchery" xml:space="preserve">
+    <value>Навык мясника</value>
+  </data>
+  <data name="Caretaking" xml:space="preserve">
+    <value>Уход за больными</value>
+  </data>
+  <data name="Carpentry" xml:space="preserve">
+    <value>Плотничество</value>
+  </data>
+  <data name="chosenFile" xml:space="preserve">
+    <value>Выбран файл:</value>
+  </data>
+  <data name="Construction" xml:space="preserve">
+    <value>Строительство</value>
+  </data>
+  <data name="Cooking" xml:space="preserve">
+    <value>Кулинария</value>
+  </data>
+  <data name="Crossbow" xml:space="preserve">
+    <value>Арбалет</value>
+  </data>
+  <data name="Dodge" xml:space="preserve">
+    <value>Уклонение</value>
+  </data>
+  <data name="Engineering" xml:space="preserve">
+    <value>Инженерное дело</value>
+  </data>
+  <data name="errorFastEditValue" xml:space="preserve">
+    <value>Принимаются только целые числа от 1 до 50000</value>
+  </data>
+  <data name="errorGridEditName" xml:space="preserve">
+    <value>Длина имени гнома не должна превышать 24 символов</value>
+  </data>
+  <data name="Farming" xml:space="preserve">
+    <value>Сельское хозяйство</value>
+  </data>
+  <data name="Fighting" xml:space="preserve">
+    <value>Бой</value>
+  </data>
+  <data name="GemCutting" xml:space="preserve">
+    <value>Обработка драгоценностей</value>
+  </data>
+  <data name="Gun" xml:space="preserve">
+    <value>Огнестрельное</value>
+  </data>
+  <data name="Hammer" xml:space="preserve">
+    <value>Молот</value>
+  </data>
+  <data name="Hauling" xml:space="preserve">
+    <value>Переноска</value>
+  </data>
+  <data name="Horticulture" xml:space="preserve">
+    <value>Садоводство</value>
+  </data>
+  <data name="JewelryMaking" xml:space="preserve">
+    <value>Ювелирное дело</value>
+  </data>
+  <data name="Leatherworking" xml:space="preserve">
+    <value>Кожевничество</value>
+  </data>
+  <data name="Machining" xml:space="preserve">
+    <value>Обработка</value>
+  </data>
+  <data name="make65535" xml:space="preserve">
+    <value>Это действие нельзя будет отменить. Используйте на свой страх и риск!</value>
+  </data>
+  <data name="Masonry" xml:space="preserve">
+    <value>Камнеобработка</value>
+  </data>
+  <data name="Mechanic" xml:space="preserve">
+    <value>Механик</value>
+  </data>
+  <data name="Medic" xml:space="preserve">
+    <value>Медик</value>
+  </data>
+  <data name="Metalworking" xml:space="preserve">
+    <value>Металлообработка</value>
+  </data>
+  <data name="Mining" xml:space="preserve">
+    <value>Шахтерство</value>
+  </data>
+  <data name="Pottery" xml:space="preserve">
+    <value>Гончарное дело</value>
+  </data>
+  <data name="saveDoneMessage" xml:space="preserve">
+    <value>Все изменения сохранены в исходный файл:</value>
+  </data>
+  <data name="Shield" xml:space="preserve">
+    <value>Щит</value>
+  </data>
+  <data name="Smelting" xml:space="preserve">
+    <value>Выплавка</value>
+  </data>
+  <data name="Stonecarving" xml:space="preserve">
+    <value>Резьба по камню</value>
+  </data>
+  <data name="Sword" xml:space="preserve">
+    <value>Меч</value>
+  </data>
+  <data name="Tailoring" xml:space="preserve">
+    <value>Портняжное дело</value>
+  </data>
+  <data name="Tinkering" xml:space="preserve">
+    <value>Лужение</value>
+  </data>
+  <data name="tryWrongPath" xml:space="preserve">
+    <value>Попытка открыть файл из неверного пути</value>
+  </data>
+  <data name="warn" xml:space="preserve">
+    <value>Внимание</value>
+  </data>
+  <data name="WeaponCrafting" xml:space="preserve">
+    <value>Изготовление оружия</value>
+  </data>
+  <data name="Weaving" xml:space="preserve">
+    <value>Ткачество</value>
+  </data>
+  <data name="Woodcarving" xml:space="preserve">
+    <value>Резьба по дереву</value>
+  </data>
+  <data name="Woodcutting" xml:space="preserve">
+    <value>Рубка деревьев</value>
+  </data>
+  <data name="worldName" xml:space="preserve">
+    <value>Название мира:</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="Charm" xml:space="preserve">
+    <value>Обаяние</value>
+  </data>
+  <data name="Curiosity" xml:space="preserve">
+    <value>Любопытность</value>
+  </data>
+  <data name="Fitness" xml:space="preserve">
+    <value>Телосложение</value>
+  </data>
+  <data name="Focus" xml:space="preserve">
+    <value>Концентрация</value>
+  </data>
+  <data name="Nimbleness" xml:space="preserve">
+    <value>Проворность</value>
+  </data>
+  <data name="downloadNewVersion" xml:space="preserve">
+    <value>перейти на официальный сайт для скачивания?</value>
+  </data>
+  <data name="latestVersion" xml:space="preserve">
+    <value>Обновления не найдены, вы используете последнюю версию</value>
+  </data>
+  <data name="newestVersion" xml:space="preserve">
+    <value>Обнаружена более новая версия:</value>
+  </data>
+  <data name="updateDialogCaption" xml:space="preserve">
+    <value>Обновление</value>
+  </data>
+  <data name="gameNotFound" xml:space="preserve">
+    <value>Файл Gnomoria.exe не найден, пожалуйста, установите программу в папку с игрой</value>
+  </data>
+  <data name="localizationNotFound" xml:space="preserve">
+    <value>Файл локализации не найден для данного языка</value>
+  </data>
+  <data name="loclibNotFound" xml:space="preserve">
+    <value>Файл loclib.dll не найден, пожалуйста, переустановите программу</value>
+  </data>
+  <data name="backupDoneMessage" xml:space="preserve">
+    <value>backup сделан в файл:</value>
+  </data>
+  <data name="exportDoneMessage" xml:space="preserve">
+    <value>Экспорт таблиц в формат CSV завершен успешно. Файлы сохранены в папке Export</value>
+  </data>
+  <data name="connectionError" xml:space="preserve">
+    <value>Ошибка соединения</value>
+  </data>
+  <data name="Profession" xml:space="preserve">
+    <value>Профессия</value>
+  </data>
+  <data name="professionAlreadyExists" xml:space="preserve">
+    <value>Профессия с таким именем уже существует</value>
+  </data>
+</root>
