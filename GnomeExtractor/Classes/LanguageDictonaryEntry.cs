@@ -178,12 +178,12 @@ namespace GnomeExtractor
             this.World = "World";
             this.WorldName = "Name:";
             this.Discussion = "Discussion page:";
-            this.DiscussionLink = "http://forums.gnomoria.com/index.php?topic=1733";
+            this.DiscussionLink = "http://forums.gnomoria.com/index.php?topic=5498.0";
             this.License = "This program is free software; You can redistribute it and/or modify, it under" +
             "the termsof the GNU General Public License aspublished by the Free Software " +
             "Foundation; either version 2 of the License, or (at your option) any later version.";
-            this.Project = "Website:";
-            this.ProjectLink = "http://gnomex.tk";
+            this.Project = "Source:";
+            this.ProjectLink = "https://github.com/lukiono/GnomeExtractor";
             this.AboutTitle = "About Gnome Extractor";
             this.Cancel = "Cancel";
             this.Combat = "Combat";

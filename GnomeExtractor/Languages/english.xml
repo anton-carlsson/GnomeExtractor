@@ -40,10 +40,10 @@
   <World>World</World>
   <WorldName>Name:</WorldName>
   <Discussion>Discussion page:</Discussion>
-  <DiscussionLink>http://forums.gnomoria.com/index.php?topic=1733</DiscussionLink>
+  <DiscussionLink>http://forums.gnomoria.com/index.php?topic=5498.0</DiscussionLink>
   <License>This program is free software; You can redistribute it and/or modify, it underthe termsof the GNU General Public License aspublished by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</License>
-  <Project>Website:</Project>
-  <ProjectLink>http://gnomex.tk</ProjectLink>
+  <Project>Source:</Project>
+  <ProjectLink>https://github.com/lukiono/GnomeExtractor</ProjectLink>
   <AboutTitle>About Gnome Extractor</AboutTitle>
   <Cancel>Cancel</Cancel>
   <Combat>Combat</Combat>

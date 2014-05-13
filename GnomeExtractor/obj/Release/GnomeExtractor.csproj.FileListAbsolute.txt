@@ -10,7 +10,6 @@ E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\gno
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\NLog.dll
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\SevenZipSharp.dll
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\irrKlang.NET4.dll
-E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\NLog.xml
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\Windows\About.g.cs
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\Windows\FastEditor.g.cs
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\Windows\MainWindow.g.cs
@@ -32,4 +31,4 @@ E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\Gno
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\GnomeExtractor.application
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\GnomeExtractor.exe
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\GnomeExtractor.pdb
-E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Release\GnomeExtractor.csprojResolveAssemblyReference.cache
+E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Release\GnomeExtractor.exe.config

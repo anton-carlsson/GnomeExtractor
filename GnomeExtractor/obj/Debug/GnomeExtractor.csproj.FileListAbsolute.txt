@@ -1,4 +1,3 @@
-E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.csprojResolveAssemblyReference.cache
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Windows\About.g.cs
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Windows\FastEditor.g.cs
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Windows\MainWindow.g.cs
@@ -32,3 +31,4 @@ E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Gnome
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.exe.manifest
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.application
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.exe
+E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\GnomeExtractor.exe.config

@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\GX icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="GnomeExtractor" version="0.4.5245.5644" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="GnomeExtractor" version="0.4.5245.37579" language="neutral" processorArchitecture="x86" />
     <commandLine file="GnomeExtractor.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -68,26 +68,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="274944">
-      <assemblyIdentity name="GnomeExtractor" version="0.4.5245.5644" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="280576">
+      <assemblyIdentity name="GnomeExtractor" version="0.4.5245.37579" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yFFRaZTHpwcC6DhOfqtMpLIDMGU=</dsig:DigestValue>
+        <dsig:DigestValue>xpPFhy0sbFt9+j7kWIyCid67wqQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru-Ru\GnomeExtractor.resources.dll" size="8704">
-      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5245.5644" language="ru-Ru" processorArchitecture="x86" />
+      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5245.37579" language="ru-Ru" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>E1EnXavc2o1xuWHWiQO19+2rd6c=</dsig:DigestValue>
+        <dsig:DigestValue>12+KaL0h5I0wClxXYQn0MJrJ+m4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

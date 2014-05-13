@@ -19,7 +19,7 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="Auto" />
             </Grid.RowDefinitions>
-            <Slider Grid.Row="0" Name="fixedEditSlider" Minimum="5" Maximum="5000" SmallChange="1" AutoToolTipPlacement="TopLeft" Margin="5" IsSnapToTickEnabled="True" />
+            <Slider Grid.Row="0" Name="fixedEditSlider" Minimum="5" Maximum="500" SmallChange="1" AutoToolTipPlacement="TopLeft" Margin="5" IsSnapToTickEnabled="True" />
             <TextBox Grid.Row="1" Name="fastEditorTextBox" Text="{Binding ElementName=fixedEditSlider, Path=Value}" TextChanged="TextBox_TextChanged" Margin="5"/>
             <RadioButton Grid.Row="2" Name="fixedModeRadioButton" Content="{Binding Language.FixedEditMode}" Click="fixedModeRadioButton_Click" Margin="5" />
             <RadioButton Grid.Row="3" Name="randomModeRadioButton" Content="{Binding Language.RandomEditMode}" Click="randomModeRadioButton_Click" Margin="5" IsEnabled="False" />

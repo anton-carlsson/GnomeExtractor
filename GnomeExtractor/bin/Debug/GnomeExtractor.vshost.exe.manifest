@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\GX icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="GnomeExtractor" version="0.4.5009.1545" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="GnomeExtractor" version="0.4.5246.39288" language="neutral" processorArchitecture="x86" />
     <commandLine file="GnomeExtractor.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -68,50 +68,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="292864">
-      <assemblyIdentity name="GnomeExtractor" version="0.4.5009.1545" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="291328">
+      <assemblyIdentity name="GnomeExtractor" version="0.4.5246.39288" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lzcALMbKFMOsaO7hOewqUK20r7o=</dsig:DigestValue>
+        <dsig:DigestValue>jvplGJwJhWop0ONdbMd+mzTU6ow=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru-Ru\GnomeExtractor.resources.dll" size="8192">
-      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5009.1545" language="ru-Ru" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru-Ru\GnomeExtractor.resources.dll" size="8704">
+      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5246.39288" language="ru-Ru" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>m1dCeY7YERaLCzAggobi0C08Cyo=</dsig:DigestValue>
+        <dsig:DigestValue>s6CH8Z/78+BYAUceNVI9g1lGKY0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gnomoria.exe" size="1960448">
-      <assemblyIdentity name="Gnomoria" version="0.8.54.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gnomoria.exe" size="2230272">
+      <assemblyIdentity name="Gnomoria" version="0.9.11.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>crRP1WQvTPIbdXNDrf4Gwi3ex+8=</dsig:DigestValue>
+        <dsig:DigestValue>J1dFR8Bawmj2kI9Fw99RLwIrhF4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gnomorialib.dll" size="93696">
-      <assemblyIdentity name="gnomorialib" version="0.8.54.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gnomorialib.dll" size="97792">
+      <assemblyIdentity name="gnomorialib" version="0.9.11.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>p3omCx0zpCFWwdSzS2gpyk652jQ=</dsig:DigestValue>
+        <dsig:DigestValue>I/Za0MNLL7owTS01yc7wbUL1M8c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -151,6 +151,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="GnomeExtractor.exe.config" size="159">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1MarUy3RuVvHLdw5ozZo3o7j39I=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Installer\Multi-Lang Installer.iss" size="4544">
     <hash>
       <dsig:Transforms>

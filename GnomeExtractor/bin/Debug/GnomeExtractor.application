@@ -8,14 +8,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="GnomeExtractor.exe.manifest" size="11388">
+    <dependentAssembly dependencyType="install" codebase="GnomeExtractor.exe.manifest" size="11775">
       <assemblyIdentity name="GnomeExtractor.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>hdLx7UZ1Jl+9wRCep1iI82l06A8=</dsig:DigestValue>
+        <dsig:DigestValue>qnkqBnLrnJQXr89GK1ptEnV31aA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
