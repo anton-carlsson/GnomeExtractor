@@ -25,8 +25,8 @@ namespace GnomeExtractor
         {
             Globals.Logger.Debug("Global variables initialization...");
 
-            foreach (var skill in SkillDef.AllLaborSkills())
-                viewModel.Skills.Add(new SkillEntry(skill, 0, false));
+            //foreach (var skill in SkillDef.AllLaborSkills())
+            //    viewModel.Skills.Add(new SkillEntry(skill, 0, false));
 
             Globals.Logger.Debug("Global variables initialized");
         }

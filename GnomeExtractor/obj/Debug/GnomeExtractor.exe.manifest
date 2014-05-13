@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\GX icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="GnomeExtractor" version="0.4.5246.39427" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="GnomeExtractor" version="0.4.5246.41311" language="neutral" processorArchitecture="x86" />
     <commandLine file="GnomeExtractor.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -69,25 +69,25 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="291328">
-      <assemblyIdentity name="GnomeExtractor" version="0.4.5246.39427" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="GnomeExtractor" version="0.4.5246.41311" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jNZw7oYlToTCV/6K0Yi9neucft8=</dsig:DigestValue>
+        <dsig:DigestValue>G/B1YXiqg3No975BzDBFO/3//So=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru-Ru\GnomeExtractor.resources.dll" size="8704">
-      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5246.39427" language="ru-Ru" processorArchitecture="x86" />
+      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5246.41311" language="ru-Ru" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Ozv6nXCqEpTvs9uCxQeH0TzhE9U=</dsig:DigestValue>
+        <dsig:DigestValue>vTeyHDSfpK3f1heqFu5wFWV7h+s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

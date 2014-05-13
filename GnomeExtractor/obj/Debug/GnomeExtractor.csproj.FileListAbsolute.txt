@@ -32,3 +32,4 @@ E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Gnome
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.application
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.exe
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\GnomeExtractor.exe.config
+E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.csprojResolveAssemblyReference.cache

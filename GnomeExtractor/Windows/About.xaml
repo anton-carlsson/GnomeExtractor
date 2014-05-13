@@ -16,10 +16,9 @@
         </Grid.RowDefinitions>
         <Image Grid.Column="0" Grid.Row="0" Source="../Resources/GX icon.ico" Margin="5" Stretch="None" Cursor="Hand" MouseDown="Image_MouseDown"  />
         <StackPanel Grid.Column="1" Grid.Row="0" Margin="5">
-            <TextBlock Text="Gnome Extractor 0.4.3" />
-            <TextBlock Text="Copyright © 2012 DanchiZZ" />
-            <TextBlock Text="Copyright © 2012 Waz" />
-            <TextBlock Text="Updated 2013 by lukiono" />
+            <TextBlock ><Run Text="Gnome Extractor 0.4."/><Run Language="de-ch" Text="4"/></TextBlock>
+            <TextBlock ><Run Text="Copyright © "/><Run Language="de-ch" Text="2014 lukiono"/></TextBlock>
+            <TextBlock ><Run Language="de-ch" Text="Original by DanchiZZ and"/><LineBreak/><Run Language="de-ch" Text="Waz"/></TextBlock>
         </StackPanel>
         <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Horizontal" Margin="5">
             <StackPanel Margin="0,0,15,0">
