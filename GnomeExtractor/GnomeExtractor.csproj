@@ -83,9 +83,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\Gnomoria.exe</HintPath>
     </Reference>
-    <Reference Include="gnomorialib, Version=0.9.10.0, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="gnomorialib, Version=0.9.11.2, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>H:\SteamLibrary\SteamApps\common\Gnomoria\gnomorialib.dll</HintPath>
+      <HintPath>..\packages\gnomorialib.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
@@ -95,8 +95,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework.Graphics\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Graphics.dll</HintPath>
     </Reference>
-    <Reference Include="NLog">
-      <HintPath>..\packages\NLog.2.0.0.2000\lib\net40\NLog.dll</HintPath>
+    <Reference Include="NLog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NLog.2.1.0\net40\NLog.dll</HintPath>
     </Reference>
     <Reference Include="PresentationFramework" />
     <Reference Include="SevenZipSharp, Version=0.64.4510.27485, Culture=neutral, processorArchitecture=MSIL">
@@ -229,12 +230,13 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Readme\Readme.txt" />
-    <Resource Include="Readme\Прочти меня.txt" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\GX icon 16.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
