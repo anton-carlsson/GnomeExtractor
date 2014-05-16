@@ -9,6 +9,5 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("nlog.config")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("installer/multi-lang%20installer.iss")]
 
 

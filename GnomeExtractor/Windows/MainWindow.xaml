@@ -72,20 +72,6 @@
                 <Separator />
                 <MenuItem Name="exitMenuItem" Click="exitMenuItem_Click" Header="{Binding Language.Exit}" />
             </MenuItem>
-            <MenuItem Name="settingsMenuItem" Header="{Binding Language.Settings}">
-                <MenuItem Name="languageMenuItem" Header="{Binding Language.LanguageMenu}" ItemsSource="{Binding Languages}" >
-                    <MenuItem.ItemContainerStyle>
-                        <Style TargetType="MenuItem">
-                            <Setter Property="Header" Value="{Binding LanguageTitle}" />
-                            <EventSetter Event="Click" Handler="languageMenuItem_Click" />
-                            <!--<Setter Property="Command" Value="{Binding ActivateCommand}"/>-->
-                            <!--<Setter Property="IsChecked" Value="{Binding IsActive}" />
-                            <Setter Property="IsCheckable" Value="True"/>-->
-                        </Style>
-                    </MenuItem.ItemContainerStyle>
-                </MenuItem>
-               <!-- <MenuItem Name="autoUpdatingMenuItem" Header="{Binding Language.AutoUpdating}" Click="autoUpdatingMenuItem_Click" />-->
-            </MenuItem>
             <MenuItem Name="cheatsMenuItem" Header="{Binding Language.Cheats}">
                 <MenuItem Name="cheatModeMenuItem" Header="{Binding Language.CheatMode}" Click="cheatModeMenuItem_Checked" />
                 <MenuItem Name="fastEditMenuItem" Header="{Binding Language.FastRedactor}" Click="fastEditMenuItem_Click" />

@@ -178,10 +178,6 @@
     <Resource Include="Resources\remove.png" />
     <Resource Include="Resources\save.png" />
     <None Include="app.config" />
-    <None Include="Languages\russian.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <Resource Include="Languages\english.xml" />
     <Content Include="NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -236,7 +232,6 @@
     <Resource Include="Readme\Прочти меня.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Installer\Multi-Lang Installer.iss" />
     <Resource Include="Resources\GX icon 16.png" />
   </ItemGroup>
   <ItemGroup />

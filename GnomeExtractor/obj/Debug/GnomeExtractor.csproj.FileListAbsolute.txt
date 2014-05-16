@@ -11,7 +11,6 @@ E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\Windo
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.g.resources
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\obj\Debug\GnomeExtractor.pdb
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\NLog.config
-E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\Languages\russian.xml
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\GnomeExtractor.exe.manifest
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\GnomeExtractor.application
 E:\Documents\GnomeExtractor\Source\gnomeextractor\GnomeExtractor\bin\Debug\GnomeExtractor.exe

@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\GX icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="GnomeExtractor" version="0.4.5246.41311" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="GnomeExtractor" version="0.4.5249.3689" language="neutral" processorArchitecture="x86" />
     <commandLine file="GnomeExtractor.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -68,50 +68,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="291328">
-      <assemblyIdentity name="GnomeExtractor" version="0.4.5246.41311" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GnomeExtractor.exe" size="285184">
+      <assemblyIdentity name="GnomeExtractor" version="0.4.5249.3689" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>G/B1YXiqg3No975BzDBFO/3//So=</dsig:DigestValue>
+        <dsig:DigestValue>TuYerLHQju+QEquVbiyEkuP2MV8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru-Ru\GnomeExtractor.resources.dll" size="8704">
-      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5246.41311" language="ru-Ru" processorArchitecture="x86" />
+      <assemblyIdentity name="GnomeExtractor.resources" version="0.4.5249.3689" language="ru-Ru" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>vTeyHDSfpK3f1heqFu5wFWV7h+s=</dsig:DigestValue>
+        <dsig:DigestValue>h5b1203gtgTYPuuhCYlx1xcZHLo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gnomoria.exe" size="2230272">
-      <assemblyIdentity name="Gnomoria" version="0.9.11.0" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Gnomoria" version="0.9.11.2" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>J1dFR8Bawmj2kI9Fw99RLwIrhF4=</dsig:DigestValue>
+        <dsig:DigestValue>KJG2K0BuQP6zCtSQ/ma0DC3psUs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gnomorialib.dll" size="97792">
-      <assemblyIdentity name="gnomorialib" version="0.9.11.0" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="gnomorialib" version="0.9.11.2" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>I/Za0MNLL7owTS01yc7wbUL1M8c=</dsig:DigestValue>
+        <dsig:DigestValue>Oz/eX8JpuSYcYnS5rOw634wdl4I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -158,15 +158,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>1MarUy3RuVvHLdw5ozZo3o7j39I=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Installer\Multi-Lang Installer.iss" size="4544">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ZKTKKPzS33MmlBDSmay+QpsEnVQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="NLog.config" size="1310">
