@@ -104,7 +104,7 @@
                 </Grid>
             </StatusBarItem>
         </StatusBar>
-        <TabControl Name="tabControl" Margin="10" SelectionChanged="tabControl_SelectionChanged">
+        <TabControl Name="tabControl" Margin="10" SelectionChanged="tabControl_SelectionChanged" SelectedIndex="1">
             <TabItem Name="professionsTabItem" Header="{Binding Language.Professions}">
                 <Grid>
                     <Grid.ColumnDefinitions>
@@ -113,7 +113,7 @@
                     </Grid.ColumnDefinitions>
                     <GroupBox Grid.Column="0" Grid.ColumnSpan="1" Header="{Binding Language.Skills}">
                         <DataGrid Name="dataGridProfessions" AutoGenerateColumns="False" Sorting="DataGrid_Sorting" 
-                                  CellEditEnding="DataGrid_CellEditEnding" ItemsSource="{Binding Gnomes}">
+                                  CellEditEnding="DataGrid_CellEditEnding" ItemsSource="{Binding Gnomes}" SelectedIndex="1">
                             <DataGrid.Columns>
                                 <DataGridTextColumn Header="ID" Binding="{Binding ID}" MaxWidth="0.01">
                                     <DataGridTextColumn.CellStyle>
@@ -603,7 +603,7 @@
                     </Grid.ColumnDefinitions>
                     <GroupBox Grid.Column="0" Header="{Binding Language.Skills}">
                         <DataGrid Name="dataGridCombat" AutoGenerateColumns="False" Sorting="DataGrid_Sorting" 
-                                  CellEditEnding="DataGrid_CellEditEnding" ItemsSource="{Binding Gnomes}">
+                                  CellEditEnding="DataGrid_CellEditEnding" ItemsSource="{Binding Gnomes}" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" SelectedIndex="1">
                             <DataGrid.Columns>
                                 <DataGridTextColumn Header="ID" Binding="{Binding ID}" MaxWidth="0.01">
                                     <DataGridTextColumn.CellStyle>
